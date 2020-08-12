@@ -1,4 +1,5 @@
-### Hi there 👋
+# I'm Lukas M.
+
 
 <!--
 **lukasMega/lukasMega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+- 🔭 I’m currently working on private projects.
+- 🌱 I’m currently learning new Javascript/TypeScript/Kotlin♥ related stuff.
+- 📫 How to reach me: linkedin.com/in/lksmlg
+- ⚡ Fun fact: Better code is no code.
