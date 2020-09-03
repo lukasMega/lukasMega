@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">A passionate fullstack dev from <s>central Europe</s> Slovakia</h3>
+<h3 align="center">A curious fullstack dev from <s>central Europe</s> Slovakia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasmega" alt="lukasmega" /> </p>
 
