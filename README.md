@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasmega" alt="lukasmega" /> </p>
 
-- 🔭 I’m currently working on **corporate project** and **Traildeer.com** and small personal projects.
+- 🔭 I’m currently working on **corporate project** (previously on **Traildeer.com**) and small personal projects.
 
 - ⚡ Fun fact: No code, no bugs.
 
